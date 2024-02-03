@@ -14,6 +14,8 @@ This program is modified from LeapSDK sample (PollingSample), add to print bone 
 
 ## Build
 
+Launch PowerShell and run following commands.
+
 ```
 > $env:BUILD_TYPE = 'Release'
 > mkdir build
@@ -24,6 +26,8 @@ This program is modified from LeapSDK sample (PollingSample), add to print bone 
 ```
 
 ## Run
+
+Launch PowerShell and run following commands.
 
 ```
 > .\build\Release\LeapSDK\PollingSample\Release\PollingSample.exe
